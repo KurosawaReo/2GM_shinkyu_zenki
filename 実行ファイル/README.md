@@ -29,4 +29,4 @@ OS : Windows 11 (64bit)<br>
 本ソフトは就職活動の選考用に制作したものです。無断転載・配布はご遠慮ください。<br>
 <br>
 ■ 連絡先<br>
-Email：kurosawareo.job@gmail.com<br>
+Email : kurosawareo.job@gmail.com<br>
